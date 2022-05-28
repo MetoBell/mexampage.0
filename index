@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<style>
+h1{
+  color:#006000;
+  background-color: #adff2f; 
+}
+
+h2{
+  color:#ffffff;
+  background-color:#6b8e12;
+}
+
+strong.miku{
+   color:#00dd6f;
+   font-size:20px;
+}
+
+main{
+   background-color:#ddffdd;
+}
+
+p.lang{
+   font-size: 25px;
+}
+</style>
+</head>
+
+
+ <h1>めとべる</h1>
+<main>
+  <h2>学部・学科 </h2>
+ <p class=lang> 基礎工学部
+  <strong>システム科学科</strong>
+  </p>
+    
+  <h2>興味のあるプログラミング言語</h2>
+  <p class=lang>Python</p>
+  <p>理由）知能システム学コースに進んだときにつかえそうだから（真の目的：<strong class="miku">自律思考型の初音ミク</strong>を創るため）</p>
+  <p class=lang>C言語</p>
+  <p>理由）C言語は万能という言葉をDiscord上で見つけ、損はなさそうと思ったから</p>
+  
+  <h2>第2外国語と理由</h2>
+  <p class=lang>ドイツ語</p>
+  <p>理由）
+    <strong>「阪大のフランス語は難しい」</strong>
+      という噂を聞き、急遽変更したため
+  </p>
+  　　　
+  <h2>最近はまっている事</h2>
+  <p class=lang> ボカロ</p>
+  　　<p>
+      動画制作（作品解説）
+      </p>
+  
+ 
+</main>
